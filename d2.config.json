@@ -6,6 +6,9 @@
   "title": "Menu Management",
   "coreApp": true,
   "version": "100.0.0",
+  "author": {
+    "name": "Alan N"
+  },
   "description": "",
   "entryPoints": {
     "app": "index.html"
